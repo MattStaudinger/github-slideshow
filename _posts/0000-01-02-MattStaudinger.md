@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-<img src="https://commons.wikimedia.org/wiki/File:Google_%22G%22_Logo.svg">
-Use the left arrow to go back!
+<iframe src="https://giphy.com/embed/l4Epf0KwYUQY5DcGc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/portlandia-season-7-episode-4-l4Epf0KwYUQY5DcGc">via GIPHY</a></p>Use the left arrow to go back!
